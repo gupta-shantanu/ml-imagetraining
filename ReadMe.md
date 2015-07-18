@@ -14,4 +14,4 @@ Trivial task of inverting an image was used to train the multivariate network. C
 ![Alt text](/./OutputGIFs/smileyTest.gif?raw=true "smiley") ![Alt text](/./OutputGIFs/arrowTest.gif?raw=true "smiley")
 
 ###Adaptibility
-Training set can be modified to obtain non-trivial Image Manipulation.
+Training set can be modified to obtain non-trivial Image Manipulation.Also looking forward to interface it with another neural network.
